@@ -1,7 +1,6 @@
 # tpfront
 
 Trabajo práctico integrador
-Grupos separados: Comisión 24118
 Pre-Entrega Integrador Front:
 
 
